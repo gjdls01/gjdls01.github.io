@@ -1,5 +1,5 @@
 module.exports = {
-  title: `zoomkoding.com`,
+  title: `gjdls01.netlify.app`,
   description: `허인`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
   siteUrl: `https://gjdls01.github.io`,
