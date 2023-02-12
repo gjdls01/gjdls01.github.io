@@ -2,7 +2,7 @@ module.exports = {
   title: `zoomkoding.com`,
   description: `줌코딩의 개발일기`,
   language: `ko`, // `ko`, `en` => currently support versions for Korean and English
-  siteUrl: `https://gjdls01.netlify.app`,
+  siteUrl: `https://gjdls01.github.io`,
   ogImage: `/og-image.png`, // Path to your in the 'static' folder
   comments: {
     utterances: {
