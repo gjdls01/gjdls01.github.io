@@ -22,7 +22,7 @@ categories: 알고리즘
 ### 예제 출력
 4<br><br>
 
-
+-------------------------------------
 ```
 a,b,c = map(int,input().split(' '))
 print(a**b%c)
