@@ -7,5 +7,7 @@ tags: 백준 자료구조 알고리즘 분할정복
 categories: 알고리즘
 ---
 
+```
 a,b,c = map(int,input().split(' '))
 print(a**b%c)
+```
