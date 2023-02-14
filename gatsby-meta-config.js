@@ -14,7 +14,7 @@ module.exports = {
     name: `허인`,
     bio: {
       role: `데이터 사이언티스트`,
-      description: ['오늘을 사유하는', '능동적으로 일하는', '이로운 것을 만드는'],
+      description: ['오늘을 사유하는'],
       thumbnail: 'sample.png', // Path to the image in the 'asset' folder
     },
     social: {
