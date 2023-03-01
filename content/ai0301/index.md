@@ -45,7 +45,7 @@ categories: Trend
 
 기자는 영국 Loyds Bank의 계좌에서 테스트했습니다. Loyds Bank는 웹사이트에서 "보이스 ID" 프로그램이 안전하다고 말합니다.<br>
 
-[![Video Label](http://img.youtube.com/vi/uLR1RNqJ1Mw/0.jpg)](https://youtu.be/uLR1RNqJ1Mw?t=0s)
+(https://youtu.be/kqYSIU70N68)
 
 🏦 **"당신의 목소리는 당신의 지문과 같고 당신만의 독특함입니다"**
 
