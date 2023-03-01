@@ -79,9 +79,7 @@ Loyds Bank는 합성 음성의 위협을 인지하고 대책을 전개하고 있
 
 음성을 만들기 위해, 기자는 약 5분간의 연설을 녹음해서 ElevenLabs에 올렸습니다. 오디오 클립의 경우, 유럽의 데이터 보호법 섹션을 읽었다고 합니다. 잠시 후, 합성 음성은 ElevenLabs의 사이트에 입력된 모든 텍스트를 말해주며 사용할 준비가 되었습니다. 🚗<br>
 
-![ElevenLabs 인터페이스 스크린퍗 (출처: MotherBoard)](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/56787fa0-f80c-4857-b354-d84aa4024728/Untitled.png)
-
-ElevenLabs 인터페이스 스크린퍗 (출처: MotherBoard)
+<img width="80%" src="content/ai0301/Untitled.png"/>
 
 Loyds Bank 시스템이 음성을 인증할 수 없다고 밝히는 등 은행 계좌 입력 실험은 여러 차례 실패했습니다. 억양을 더 자연스럽게 들리게 하기 위해 Elevenlabs에서 더 긴 본문의 텍스트를 읽도록 하는 등 약간의 수정을 한 후 생성된 오디오는 성공적으로 은행의 보안을 우회했습니다.<br>
 
