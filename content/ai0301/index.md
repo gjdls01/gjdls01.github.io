@@ -1,5 +1,5 @@
 ---
-emoji: 👨🏻‍
+emoji: 📮
 title: AI 01. 음성 AI로 은행 계좌에 접속하는 방법
 date: '2023-03-01 00:00:00'
 author: 허인
